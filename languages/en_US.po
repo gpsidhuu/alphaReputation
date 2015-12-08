@@ -1,0 +1,4946 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rhythm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-28 08:45+0100\n"
+"PO-Revision-Date: 2015-04-28 08:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: Medialayout\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: rhythm\n"
+
+# @ mk_framework
+#: rhythm/comments.php:25
+msgid "Comments"
+msgstr ""
+
+#: rhythm/comments.php:29
+msgid "Comment navigation"
+msgstr ""
+
+#: rhythm/comments.php:32
+msgid "Older Comments"
+msgstr ""
+
+#: rhythm/comments.php:33
+msgid "Newer Comments"
+msgstr ""
+
+#: rhythm/comments.php:63
+msgid "Leave a Comment"
+msgstr ""
+
+#: rhythm/comments.php:64
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: rhythm/comments.php:65
+msgid "Cancel Comment"
+msgstr ""
+
+#: rhythm/comments.php:66
+msgid "Submit Comment"
+msgstr ""
+
+#: rhythm/comments.php:70
+msgid "Comment"
+msgstr ""
+
+#: rhythm/comments.php:72
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: rhythm/comments.php:73
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: rhythm/comments.php:83
+msgid "Name"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: rhythm/comments.php:89
+msgid "Email"
+msgstr ""
+
+#: rhythm/comments.php:96
+msgid "Website"
+msgstr ""
+
+#: rhythm/404.php:28
+msgid "The page you were looking for could not be found."
+msgstr ""
+
+#: rhythm/404.php:32
+msgid "Back To Home Page"
+msgstr ""
+
+#: rhythm/functions.php:102 rhythm/admin/metaboxes/header.php:28
+msgid "Primary Menu"
+msgstr ""
+
+#: rhythm/functions.php:141
+msgid "Main Sidebar"
+msgstr ""
+
+#: rhythm/functions.php:152
+msgid "Footer Sidebar"
+msgstr ""
+
+#: rhythm/functions.php:179
+msgid "Shop Single Post Sidebar"
+msgstr ""
+
+#: rhythm/header.php:25
+msgid "Loading..."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:156
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:160
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: rhythm/inc/custom-menus.php:169
+msgid "sub item"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:201
+msgid "Edit Menu Item"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:210
+#: rhythm/admin/metaboxes/portfolio-details.php:33
+#: rhythm/admin/metaboxes/portfolio-external-url.php:13
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:217
+msgid "Navigation Label"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:223
+msgid "Title Attribute"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:230
+msgid "Open link in a new window/tab"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:235
+msgid "CSS Classes (optional)"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:241
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:247
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:249
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: rhythm/inc/custom-menus.php:255
+msgid "Move"
+msgstr ""
+
+#: rhythm/inc/custom-menus.php:256
+msgid "Up one"
+msgstr ""
+
+#: rhythm/inc/custom-menus.php:257
+msgid "Down one"
+msgstr ""
+
+#: rhythm/inc/custom-menus.php:260
+msgid "To the top"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:277
+msgid "Choose Icon"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:278 rhythm/inc/custom-menus.php:332
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:205
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:321
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:190
+#: rhythm/woocommerce/cart/mini-cart.php:47
+msgid "Remove"
+msgstr ""
+
+#: rhythm/inc/custom-menus.php:296
+msgid "Create Mega Menu for this item"
+msgstr ""
+
+#: rhythm/inc/custom-menus.php:310
+msgid "Hide this item"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/custom-menus.php:319
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: rhythm/inc/custom-menus.php:333
+msgid "Cancel"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:53
+msgid "Posts navigation"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:57
+msgid "Older posts"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:61
+msgid "Newer posts"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:87
+msgid "Prev post"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:88
+msgid "Next post"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:137 rhythm/inc/template-tags.php:160
+#: rhythm/templates/blog-classic/parts/part-meta.php:26
+msgid ", "
+msgstr ""
+
+#: rhythm/inc/template-tags.php:160
+msgid "Posted in:"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:164
+msgid "Tagged:"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: rhythm/inc/template-tags.php:167 rhythm/inc/template-tags.php:421
+#: rhythm/inc/template-tags.php:449
+msgid "Edit"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:190 rhythm/admin/options/pages.php:76
+msgid "Blog"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:203
+msgid "1 search result for"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:206
+msgid "search results for"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:209
+msgid "Search results for"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:222
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:225
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:228
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:228
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:231
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:231
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:238
+msgid "Asides"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:241
+msgid "Galleries"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:244
+msgid "Images"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:247
+msgid "Videos"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:250
+msgid "Quotes"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:253
+msgid "Links"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:256
+msgid "Statuses"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:259
+msgid "Audios"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:262
+msgid "Chats"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/template-tags.php:265
+msgid "404"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/template-tags.php:268
+msgid "Archives"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:421
+msgid "Pingback:"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/template-tags.php:453
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: rhythm/inc/template-tags.php:502
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/inc/template-tags.php:512 rhythm/inc/template-tags.php:582
+msgid "Home"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:555 rhythm/inc/template-tags.php:560
+#: rhythm/inc/template-tags.php:565
+msgid "Archive for"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:570
+msgid "Author Archive"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:574
+msgid "Blog Archives"
+msgstr ""
+
+#: rhythm/inc/template-tags.php:577 rhythm/admin/options/pages.php:234
+msgid "Search Results"
+msgstr ""
+
+#: rhythm/inc/extras.php:69
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: rhythm/page-templates/portfolio.php:211
+#: rhythm/templates/portfolio/parts/navigation.php:26
+msgid "All works"
+msgstr ""
+
+#: rhythm/page-templates/faq.php:104 rhythm/templates/header/default.php:70
+#: rhythm/templates/title/default.php:87
+msgid "Start Search"
+msgstr ""
+
+#: rhythm/page-templates/faq.php:107 rhythm/templates/header/default.php:73
+#: rhythm/templates/title/default.php:90
+msgid "Search..."
+msgstr ""
+
+#: rhythm/templates/blog-classic/parts/part-meta.php:28
+msgid "No comments"
+msgstr ""
+
+#: rhythm/templates/blog-classic/parts/part-meta.php:28
+msgid "1 Comment"
+msgstr ""
+
+#: rhythm/templates/blog-classic/parts/part-meta.php:28
+msgid "% Comments"
+msgstr ""
+
+#: rhythm/templates/blog-classic/parts/part-footer.php:10
+#: rhythm/templates/blog-columns/parts/part-footer.php:10
+#: rhythm/templates/blog-masonry/parts/part-footer.php:10
+msgid "Read More"
+msgstr ""
+
+#: rhythm/templates/portfolio/parts/navigation.php:17
+#: rhythm/templates/portfolio/parts/navigation.php:19
+msgid "Previous"
+msgstr ""
+
+#: rhythm/templates/portfolio/parts/navigation.php:33
+#: rhythm/templates/portfolio/parts/navigation.php:35
+msgid "Next"
+msgstr ""
+
+#: rhythm/templates/portfolio/parts/project-details.php:14
+msgid "Project Details"
+msgstr ""
+
+#: rhythm/templates/portfolio/parts/project-details.php:18
+msgid "Client:"
+msgstr ""
+
+#: rhythm/templates/portfolio/parts/project-details.php:23
+msgid "Data:"
+msgstr ""
+
+#: rhythm/templates/portfolio/parts/project-details.php:28
+msgid "Online:"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/templates/portfolio/parts/editor-content.php:11
+#: rhythm/templates/content/content-page.php:14
+#: rhythm/templates/content/content-single.php:18
+msgid "Pages:"
+msgstr ""
+
+#: rhythm/templates/portfolio/parts/related.php:43
+#: rhythm/admin/options/pages.php:188
+#: rhythm/admin/metaboxes/portfolio-general.php:59
+msgid "Related Projects"
+msgstr ""
+
+#: rhythm/templates/portfolio/parts/related.php:46
+#: rhythm/admin/options/pages.php:189
+#: rhythm/admin/metaboxes/portfolio-general.php:60
+msgid "Latest Projects"
+msgstr ""
+
+#: rhythm/templates/content/content-none.php:12
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: rhythm/templates/content/content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: rhythm/templates/content/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/templates/header/default.php:64 rhythm/admin/options/header.php:109
+#: rhythm/admin/metaboxes/header.php:121
+msgid "Search"
+msgstr ""
+
+#: rhythm/templates/header/default.php:86
+#, php-format
+msgid "Cart(%d)"
+msgstr ""
+
+#: rhythm/admin/options-init.php:111
+#: rhythm/admin/redux-framework/sample/sample-config.php:108
+msgid "Section via hook"
+msgstr ""
+
+#: rhythm/admin/options-init.php:112
+#: rhythm/admin/redux-framework/sample/sample-config.php:109
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: rhythm/admin/options-init.php:190
+#: rhythm/admin/redux-framework/sample/sample-config.php:189
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: rhythm/admin/options-init.php:207
+#: rhythm/admin/redux-framework/sample/sample-config.php:209
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: rhythm/admin/options-init.php:208
+#: rhythm/admin/redux-framework/sample/sample-config.php:210
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:169
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:300
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:338
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:476
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: rhythm/admin/options-init.php:209
+#: rhythm/admin/redux-framework/sample/sample-config.php:211
+msgid "Tags"
+msgstr ""
+
+#: rhythm/admin/options-init.php:214
+#: rhythm/admin/redux-framework/sample/sample-config.php:216
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: rhythm/admin/options-init.php:214
+#: rhythm/admin/redux-framework/sample/sample-config.php:216
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: rhythm/admin/options-init.php:253
+#: rhythm/admin/redux-framework/sample/sample-config.php:1354
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: rhythm/admin/options-init.php:254
+#: rhythm/admin/redux-framework/sample/sample-config.php:1355
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: rhythm/admin/options-init.php:255
+#: rhythm/admin/redux-framework/sample/sample-config.php:1356
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: rhythm/admin/options-init.php:259
+#: rhythm/admin/redux-framework/sample/sample-config.php:1360
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: rhythm/admin/options-init.php:266 rhythm/admin/options-init.php:298
+#: rhythm/admin/redux-framework/class.redux-plugin.php:410
+#: rhythm/admin/redux-framework/sample/sample-config.php:1367
+#: rhythm/admin/redux-framework/sample/sample-config.php:1624
+#: rhythm/admin/redux-framework/sample/sample-config.php:1770
+msgid "Documentation"
+msgstr ""
+
+#: rhythm/admin/options-init.php:284
+#: rhythm/admin/redux-framework/sample/sample-config.php:1610
+msgid "Theme Information"
+msgstr ""
+
+#: rhythm/admin/options-init.php:285
+msgid "<p class=\"description\">More about our theme.</p>"
+msgstr ""
+
+#: rhythm/admin/options-init.php:309
+#: rhythm/admin/redux-framework/sample/barebones-config.php:110
+#: rhythm/admin/redux-framework/sample/sample-config.php:1635
+msgid "Theme Information 1"
+msgstr ""
+
+#: rhythm/admin/options-init.php:310 rhythm/admin/options-init.php:316
+#: rhythm/admin/redux-framework/sample/barebones-config.php:111
+#: rhythm/admin/redux-framework/sample/barebones-config.php:117
+#: rhythm/admin/redux-framework/sample/sample-config.php:1636
+#: rhythm/admin/redux-framework/sample/sample-config.php:1642
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: rhythm/admin/options-init.php:315
+#: rhythm/admin/redux-framework/sample/barebones-config.php:116
+#: rhythm/admin/redux-framework/sample/sample-config.php:1641
+msgid "Theme Information 2"
+msgstr ""
+
+#: rhythm/admin/options-init.php:320
+#: rhythm/admin/redux-framework/sample/barebones-config.php:121
+#: rhythm/admin/redux-framework/sample/sample-config.php:1646
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: rhythm/admin/metaboxes-init.php:51 rhythm/admin/metaboxes-init.php:144
+msgid "Portfolio Options"
+msgstr ""
+
+#: rhythm/admin/metaboxes-init.php:73
+msgid "Team Member Options"
+msgstr ""
+
+#: rhythm/admin/metaboxes-init.php:95
+msgid "Testimonial Options"
+msgstr ""
+
+#: rhythm/admin/metaboxes-init.php:117
+msgid "Blog Options"
+msgstr ""
+
+#: rhythm/admin/metaboxes-init.php:169
+msgid "FAQ Options"
+msgstr ""
+
+#: rhythm/admin/metaboxes-init.php:194
+msgid "Shop Options"
+msgstr ""
+
+#: rhythm/admin/metaboxes-init.php:224 rhythm/admin/metaboxes-init.php:251
+#: rhythm/admin/metaboxes-init.php:389
+#: rhythm/admin/redux-extensions/extensions/metaboxes/extension_metaboxes.php:843
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:227
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:231
+msgid "Options"
+msgstr ""
+
+#: rhythm/admin/metaboxes-init.php:273 rhythm/admin/metaboxes-init.php:364
+msgid "Post Options"
+msgstr ""
+
+#: rhythm/admin/metaboxes-init.php:295
+msgid "Video Post Options"
+msgstr ""
+
+#: rhythm/admin/metaboxes-init.php:318
+msgid "Gallery Post Options"
+msgstr ""
+
+#: rhythm/admin/metaboxes-init.php:341
+msgid "Audio Post Options"
+msgstr ""
+
+#: rhythm/admin/options/layout.php:7 rhythm/admin/metaboxes/layout.php:7
+msgid "Layout Settings"
+msgstr ""
+
+#: rhythm/admin/options/layout.php:8 rhythm/admin/metaboxes/layout.php:8
+msgid "Change the main theme's layout and configure it."
+msgstr ""
+
+#: rhythm/admin/options/layout.php:15 rhythm/admin/metaboxes/layout.php:15
+#: rhythm/admin/redux-framework/sample/sample-config.php:561
+msgid "Main Layout"
+msgstr ""
+
+#: rhythm/admin/options/layout.php:16 rhythm/admin/metaboxes/layout.php:16
+msgid ""
+"Select main content and sidebar alignment. Choose between 1 or 2 column "
+"layout."
+msgstr ""
+
+#: rhythm/admin/options/layout.php:18 rhythm/admin/metaboxes/layout.php:18
+msgid "1 Column"
+msgstr ""
+
+#: rhythm/admin/options/layout.php:19
+msgid "2 Column Left"
+msgstr ""
+
+#: rhythm/admin/options/layout.php:20
+msgid "2 Column Right"
+msgstr ""
+
+#: rhythm/admin/options/layout.php:29 rhythm/admin/metaboxes/layout.php:28
+msgid "Sidebar"
+msgstr ""
+
+#: rhythm/admin/options/layout.php:30 rhythm/admin/options/footer.php:31
+#: rhythm/admin/options/footer.php:42 rhythm/admin/options/footer.php:53
+#: rhythm/admin/options/footer.php:64 rhythm/admin/metaboxes/layout.php:29
+#: rhythm/admin/metaboxes/footer.php:36 rhythm/admin/metaboxes/footer.php:46
+#: rhythm/admin/metaboxes/footer.php:56 rhythm/admin/metaboxes/footer.php:66
+msgid "Select custom sidebar"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/options/general.php:7
+#: rhythm/admin/redux-framework/sample/sample-config.php:555
+msgid "General Settings"
+msgstr ""
+
+#: rhythm/admin/options/general.php:8
+msgid "Configure easily the basic theme's settings."
+msgstr ""
+
+#: rhythm/admin/options/general.php:15
+msgid "Enable Under Construction"
+msgstr ""
+
+#: rhythm/admin/options/general.php:16
+msgid "If on, the frontend shows under construction page only."
+msgstr ""
+
+#: rhythm/admin/options/general.php:17
+msgid ""
+"Only administrator will be able to visit site. If you want to check under "
+"construction mode is enabled you have to logout."
+msgstr ""
+
+#: rhythm/admin/options/general.php:24
+msgid "Enable Loader Effect?"
+msgstr ""
+
+#: rhythm/admin/options/general.php:25
+msgid "If on, a loader will appear before loading the page."
+msgstr ""
+
+#: rhythm/admin/options/general.php:32
+msgid "Custom Sidebars"
+msgstr ""
+
+#: rhythm/admin/options/general.php:33
+msgid "Custom sidebars can be assigned to any page or post."
+msgstr ""
+
+#: rhythm/admin/options/general.php:34
+msgid "You can add as many custom sidebars as you need."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:7
+msgid "Customizer"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:8
+msgid "Check child sections to style properly the correct area of the theme."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:18 rhythm/admin/options/header.php:7
+#: rhythm/admin/metaboxes/team.php:18 rhythm/admin/metaboxes/header.php:7
+msgid "Header"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:19
+msgid "Configure header styles."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:27
+#: rhythm/admin/options/customizer.php:67
+#: rhythm/admin/options/customizer.php:130
+#: rhythm/admin/options/customizer.php:773
+#: rhythm/admin/options/customizer.php:844 rhythm/admin/options/pages.php:26
+#: rhythm/admin/options/pages.php:298
+msgid "Background"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:28
+msgid "Header background with image, color and other options."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/options/customizer.php:34
+#: rhythm/admin/options/customizer.php:74
+#: rhythm/admin/options/customizer.php:137
+#: rhythm/admin/options/customizer.php:780
+#: rhythm/admin/options/customizer.php:851
+#: rhythm/admin/redux-framework/sample/sample-config.php:514
+msgid "Typography"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:35
+msgid "Menu, modules and other header items font."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:46
+msgid "Submenu Background Color"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:57
+#: rhythm/admin/options/title-wrapper.php:7
+#: rhythm/admin/metaboxes/title-wrapper.php:7
+msgid "Title Wrapper"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:58
+msgid "Configure title wrapper styles."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:68
+msgid ""
+"Title wrapper background, color and other options. Background image can be "
+"set in <em>Title Wrapper</em> section outside <em>Customizer</em>."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:75
+msgid "Title and other items font."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:86
+msgid "Title Color"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:94
+msgid "Subtitle Color"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:102
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:110
+msgid "Breadcrumbs Active Item Color"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/options/customizer.php:121
+#: rhythm/admin/metaboxes/content-portfolio.php:7
+#: rhythm/admin/metaboxes/content.php:7
+msgid "Content"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:122
+msgid "Configure content styles."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:131
+msgid "Content background, color and other options."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:138
+msgid "Content font."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:149
+msgid "Color (1)"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:150
+msgid "Default text color. Gray elements by default."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:268
+msgid "Color (2)"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:269
+msgid "Active elements, links, text. Dark elements by default."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:465
+msgid "Color (3)"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:466
+msgid "Light dark elements by default."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:504
+msgid "Color (4)"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:505
+msgid "Light elements, links, text."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:556
+msgid "Color (5)"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:557
+msgid "Light gray text, background, borders color."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:628
+msgid "Color (6)"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:629
+msgid "White elements by default."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:758 rhythm/admin/options/footer.php:7
+#: rhythm/admin/metaboxes/footer.php:7
+msgid "Footer"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:759
+msgid "Configure footer sidebar styles."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:766
+msgid "Footer Sidebar Configuration"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:774
+msgid "Footer sidebar background, color and other options."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:781
+msgid "Widgets font and color."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/options/customizer.php:792
+msgid "Text Color"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:813
+msgid "Text Hover Color"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:826
+msgid "Items Border Color"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:837
+msgid "Footer Bar Configuration"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:845
+msgid "Footer background, color and other options."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:852
+msgid "Footer font."
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:863
+msgid "Icons Color"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:875
+msgid "Icons Hover Color"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:886
+msgid "Back To Top Icon Color"
+msgstr ""
+
+#: rhythm/admin/options/customizer.php:896
+msgid "Back To Top Hover Icon Color"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/options/custom_code.php:7
+#: rhythm/admin/redux-framework/sample/sample-config.php:799
+msgid "Custom CSS"
+msgstr ""
+
+#: rhythm/admin/options/custom_code.php:8
+msgid "Easily add custom CSS to your website."
+msgstr ""
+
+#: rhythm/admin/options/custom_code.php:15
+#: rhythm/admin/redux-framework/sample/sample-config.php:603
+msgid "CSS Code"
+msgstr ""
+
+#: rhythm/admin/options/custom_code.php:16
+msgid ""
+"Insert your custom CSS code right here. It will be displayed globally in the "
+"website."
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:7
+msgid "Favicon Settings"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:8
+msgid ""
+"Configure the favicon in a lot of plataforms. Generate and download your "
+"package at http://realfavicongenerator.net/"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:15
+msgid ""
+"Generate and download your image package at http://realfavicongenerator.net/"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:21
+msgid "Default Favicons"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:25
+msgid "Favicon 16x16"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:26
+msgid "Upload favicon image in the following dimensions (16x16)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:34
+msgid "Favicon 32x32"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:35
+msgid "Upload favicon image in the following dimensions (32x32)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:43
+msgid "Favicon 96x96"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:44
+msgid "Upload favicon image in the following dimensions (96x96)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:52
+msgid "Favicon 160x160"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:53
+msgid "Upload favicon image in the following dimensions (160x160)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:61
+msgid "Favicon 192x192"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:62
+msgid "Upload favicon image in the following dimensions (192x192)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:72
+msgid "Apple Favicons"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:76
+msgid "Favicon 57x57"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:77
+msgid "Upload favicon image in the following dimensions (57x57)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:85
+msgid "Favicon 114x114"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:86
+msgid "Upload favicon image in the following dimensions (114x114)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:94
+msgid "Favicon 72x72"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:95
+msgid "Upload favicon image in the following dimensions (72x72)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:103
+msgid "Favicon 144x144"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:104
+msgid "Upload favicon image in the following dimensions (144x144)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:112
+msgid "Favicon 60x60"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:113
+msgid "Upload favicon image in the following dimensions (60x60)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:121
+msgid "Favicon 120x120"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:122
+msgid "Upload favicon image in the following dimensions (120x120)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:130
+msgid "Favicon 76x76"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:131
+msgid "Upload favicon image in the following dimensions (76x76)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:139
+msgid "Favicon 152x152"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:140
+msgid "Upload favicon image in the following dimensions (152x152)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:148
+msgid "Favicon 180x180"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:149
+msgid "Upload favicon image in the following dimensions (180x180)"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:159
+msgid "Windows Metro"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:165
+msgid "Custom Tile Background Color"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:166
+msgid "Pick a background color for the tile."
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:173
+msgid "Tile Image 70x70"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:174
+msgid ""
+"Upload favicon image in the following dimensions. Minimum image size: 70x70. "
+"Recommended: 128x128."
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:182
+msgid "Tile Image 150x150"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:183
+msgid ""
+"Upload favicon image in the following dimensions. Minimum image size: "
+"150x150. Recommended: 270x270."
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:191
+msgid "Tile Image 310x150"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:192
+msgid ""
+"Upload favicon image in the following dimensions. Minimum image size: "
+"310x150. Recommended: 558x270."
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:200
+msgid "Tile Image 310x310"
+msgstr ""
+
+#: rhythm/admin/options/favicon.php:201
+msgid ""
+"Upload favicon image in the following dimensions. Minimum image size: "
+"310x310. Recommended: 558x558."
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:8
+#: rhythm/admin/metaboxes/title-wrapper.php:8
+msgid "Change the title wrapper section configuration."
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:15
+#: rhythm/admin/metaboxes/title-wrapper.php:15
+msgid "Enable Title Wrapper"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:16
+#: rhythm/admin/options/pages.php:147 rhythm/admin/options/pages.php:155
+#: rhythm/admin/options/pages.php:177 rhythm/admin/options/pages.php:199
+#: rhythm/admin/options/footer.php:23 rhythm/admin/options/footer.php:82
+#: rhythm/admin/options/header.php:16
+#: rhythm/admin/metaboxes/portfolio-general.php:44
+#: rhythm/admin/metaboxes/portfolio-general.php:69
+#: rhythm/admin/metaboxes/portfolio-gallery.php:15
+#: rhythm/admin/metaboxes/portfolio-gallery.php:28
+#: rhythm/admin/metaboxes/portfolio-details.php:14
+#: rhythm/admin/metaboxes/title-wrapper.php:16
+#: rhythm/admin/metaboxes/footer.php:23 rhythm/admin/metaboxes/footer.php:82
+#: rhythm/admin/metaboxes/header.php:16
+msgid "If on, this layout part will be displayed."
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:23
+msgid "Title wrapper style"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:24
+#: rhythm/admin/options/title-wrapper.php:39
+#: rhythm/admin/metaboxes/title-wrapper.php:37
+msgid "Choose style for the title wrapper."
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:26
+#: rhythm/admin/options/title-wrapper.php:41
+#: rhythm/admin/metaboxes/title-wrapper.php:39
+msgid "Light gray background, dark text"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:27
+#: rhythm/admin/options/title-wrapper.php:42
+#: rhythm/admin/metaboxes/title-wrapper.php:40
+msgid "Gray background, text dark"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:28
+#: rhythm/admin/options/title-wrapper.php:43
+#: rhythm/admin/metaboxes/title-wrapper.php:41
+msgid "Dark gray background,  light text"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:29
+#: rhythm/admin/options/title-wrapper.php:44
+#: rhythm/admin/metaboxes/title-wrapper.php:42
+msgid "Black background, white text"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:38
+#: rhythm/admin/metaboxes/title-wrapper.php:36
+msgid "Title Wrapper Style"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:45
+#: rhythm/admin/metaboxes/title-wrapper.php:43
+msgid "Dark 30%"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:46
+#: rhythm/admin/metaboxes/title-wrapper.php:44
+msgid "Dark 50%"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:47
+#: rhythm/admin/metaboxes/title-wrapper.php:45
+msgid "Dark 70%"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:48
+#: rhythm/admin/metaboxes/title-wrapper.php:46
+msgid "Light 30%"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:49
+#: rhythm/admin/metaboxes/title-wrapper.php:47
+msgid "Light 50%"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:50
+#: rhythm/admin/metaboxes/title-wrapper.php:48
+msgid "Light 70%"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:60
+#: rhythm/admin/metaboxes/title-wrapper.php:71
+msgid "Title Background"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:62
+#: rhythm/admin/metaboxes/title-wrapper.php:73
+#: rhythm/admin/redux-framework/sample/sample-config.php:253
+#: rhythm/admin/redux-framework/sample/sample-config.php:282
+#: rhythm/admin/redux-framework/sample/sample-config.php:300
+#: rhythm/admin/redux-framework/sample/sample-config.php:308
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:68
+#: rhythm/admin/metaboxes/title-wrapper.php:79
+msgid "Parallax effect"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:69
+#: rhythm/admin/metaboxes/title-wrapper.php:80
+msgid "Choose parallax effect for the background image."
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:71
+#: rhythm/admin/metaboxes/title-wrapper.php:82
+msgid "No effect"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:88
+#: rhythm/admin/metaboxes/title-wrapper.php:98
+msgid "Enable searchs section below title wrapper"
+msgstr ""
+
+#: rhythm/admin/options/title-wrapper.php:89
+#: rhythm/admin/metaboxes/title-wrapper.php:99
+msgid "If on, this full width search secion will be displayed"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:7
+msgid "Pages/Templates"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:8
+msgid "Change templates and pages templates."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:19
+msgid "404 page"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:27
+msgid "Upload the background that will be displayed in the 404 page."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:38
+msgid "Archive"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:44
+msgid "Archive Template"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:45
+msgid "Select the archive default template."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:47 rhythm/admin/options/pages.php:85
+#: rhythm/admin/options/pages.php:165 rhythm/admin/options/pages.php:243
+#: rhythm/admin/metaboxes/portfolio-gallery.php:43
+msgid "Classic"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:48 rhythm/admin/options/pages.php:86
+#: rhythm/admin/options/pages.php:244 rhythm/admin/options/pages.php:277
+#: rhythm/admin/metaboxes/page-template-shop.php:13
+#: rhythm/admin/metaboxes/page-template-portfolio.php:44
+#: rhythm/admin/metaboxes/page-template-blog.php:13
+msgid "Columns"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:49 rhythm/admin/options/pages.php:87
+#: rhythm/admin/options/pages.php:245
+msgid "Masonry"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:58
+msgid "Archive Columns"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:59 rhythm/admin/options/pages.php:97
+#: rhythm/admin/options/pages.php:255 rhythm/admin/options/pages.php:278
+#: rhythm/admin/metaboxes/page-template-shop.php:14
+msgid "Select desired number of columns."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:82
+msgid "Blog Template"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:83
+msgid "Select the blog default template."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:96
+msgid "Blog Columns"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:114
+msgid "Pages"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:120
+msgid "Enable Comments in Pages?"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:121
+msgid "If on, the comment form will be avaliable in all pages."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:132
+msgid "Portfolio Single"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:138
+#: rhythm/admin/metaboxes/portfolio-general.php:30
+msgid "Content At The Bottom"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:139
+#: rhythm/admin/metaboxes/portfolio-general.php:31
+msgid "If on, shows content below all portfolio items."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:146
+#: rhythm/admin/metaboxes/portfolio-gallery.php:14
+msgid "Enable featured image section"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:154
+msgid "Enable gallery section"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:162
+#: rhythm/admin/metaboxes/portfolio-gallery.php:40
+msgid "Gallery Type"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:163
+#: rhythm/admin/metaboxes/portfolio-gallery.php:41
+msgid "Select the gallery template."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:166
+#: rhythm/admin/metaboxes/portfolio-gallery.php:44
+msgid "Slider"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:167
+#: rhythm/admin/metaboxes/portfolio-gallery.php:45
+msgid "Fullwidth Slider"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:176
+#: rhythm/admin/metaboxes/portfolio-details.php:13
+msgid "Enable project details section"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:184
+msgid "Related/Latest Projects"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:185
+msgid "If activated related or latest projects will be displayed."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:187
+#: rhythm/admin/metaboxes/portfolio-general.php:58
+msgid "Don't show"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:198
+#: rhythm/admin/metaboxes/portfolio-general.php:68
+msgid "Navigation"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:207
+#: rhythm/admin/metaboxes/portfolio-general.php:82
+msgid "Portfolio Page"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:208
+#: rhythm/admin/metaboxes/portfolio-general.php:83
+msgid "Page to return from single items."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:217
+msgid "Post"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:223 rhythm/admin/metaboxes/post.php:13
+msgid "Enable media"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:224 rhythm/admin/metaboxes/post.php:14
+msgid ""
+"If on, featured image, gallery, video or audio will be displayed "
+"automatically on a single post page."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:240
+msgid "Search Results Template"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:241
+msgid "Select the search results default template."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:254
+msgid "Search Results Columns"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:271
+msgid "Shop"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:291
+msgid "Under Construction"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:299
+msgid ""
+"Upload the background that will be displayed in the under construction page."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:305
+msgid "Header area 1"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:306
+msgid ""
+"The header area 1 displayed in the header of the under construciton page."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:313
+msgid "Header area 2"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:314
+msgid ""
+"The header area 2 displayed in the header of the under construciton page."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/options/pages.php:321
+#: rhythm/admin/metaboxes/portfolio-gallery.php:56
+#: rhythm/admin/metaboxes/post-gallery.php:16
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:322
+msgid "Title of the under construciton page."
+msgstr ""
+
+#: rhythm/admin/options/pages.php:329
+#: rhythm/admin/metaboxes/title-wrapper.php:28
+msgid "Subtitle"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:330
+msgid "Subtitle of the under construciton page."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/options/pages.php:337
+#: rhythm/admin/metaboxes/page-template-faq.php:49
+msgid "Text"
+msgstr ""
+
+#: rhythm/admin/options/pages.php:338
+msgid "Text displayed on the under construction page."
+msgstr ""
+
+#: rhythm/admin/options/footer.php:8 rhythm/admin/metaboxes/footer.php:8
+msgid "Change the footer section configuration."
+msgstr ""
+
+#: rhythm/admin/options/footer.php:16 rhythm/admin/metaboxes/footer.php:16
+msgid "Footer sidebar configuration"
+msgstr ""
+
+#: rhythm/admin/options/footer.php:22 rhythm/admin/metaboxes/footer.php:22
+msgid "Enable footer sidebar?"
+msgstr ""
+
+#: rhythm/admin/options/footer.php:30 rhythm/admin/metaboxes/footer.php:35
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: rhythm/admin/options/footer.php:41 rhythm/admin/metaboxes/footer.php:45
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: rhythm/admin/options/footer.php:52 rhythm/admin/metaboxes/footer.php:55
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: rhythm/admin/options/footer.php:63 rhythm/admin/metaboxes/footer.php:65
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: rhythm/admin/options/footer.php:75 rhythm/admin/metaboxes/footer.php:75
+msgid "Footer bar configuration"
+msgstr ""
+
+#: rhythm/admin/options/footer.php:81 rhythm/admin/metaboxes/footer.php:81
+msgid "Enable footer?"
+msgstr ""
+
+#: rhythm/admin/options/footer.php:90 rhythm/admin/metaboxes/footer.php:95
+msgid "Footer Logo"
+msgstr ""
+
+#: rhythm/admin/options/footer.php:91 rhythm/admin/metaboxes/footer.php:96
+msgid "Upload the logo that will be displayed in the footer."
+msgstr ""
+
+#: rhythm/admin/options/footer.php:97 rhythm/admin/metaboxes/footer.php:102
+msgid "Show social icons"
+msgstr ""
+
+#: rhythm/admin/options/footer.php:98 rhythm/admin/metaboxes/footer.php:103
+msgid "If on, social icons will be displayed."
+msgstr ""
+
+#: rhythm/admin/options/footer.php:105 rhythm/admin/metaboxes/footer.php:115
+msgid "Copyright Content"
+msgstr ""
+
+#: rhythm/admin/options/footer.php:106 rhythm/admin/options/footer.php:113
+msgid "Place any text to be displayed."
+msgstr ""
+
+#: rhythm/admin/options/footer.php:112 rhythm/admin/metaboxes/footer.php:122
+msgid "Copyright Small Content"
+msgstr ""
+
+#: rhythm/admin/options/header.php:8 rhythm/admin/metaboxes/header.php:8
+msgid "Change the header section configuration."
+msgstr ""
+
+#: rhythm/admin/options/header.php:15 rhythm/admin/metaboxes/header.php:15
+msgid "Enable Header"
+msgstr ""
+
+#: rhythm/admin/options/header.php:23 rhythm/admin/metaboxes/header.php:37
+msgid "Sticky or Dynamic Header"
+msgstr ""
+
+#: rhythm/admin/options/header.php:24 rhythm/admin/metaboxes/header.php:38
+msgid "Select if menu is sticky or dynamic."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/options/header.php:26
+#: rhythm/admin/metaboxes/content-portfolio.php:17
+#: rhythm/admin/metaboxes/title-wrapper.php:59
+#: rhythm/admin/metaboxes/content.php:17 rhythm/admin/metaboxes/header.php:40
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:1835
+#: rhythm/extensions/admin.php:61
+msgid "Default"
+msgstr ""
+
+#: rhythm/admin/options/header.php:27 rhythm/admin/metaboxes/header.php:41
+msgid "Dynamic"
+msgstr ""
+
+#: rhythm/admin/options/header.php:28 rhythm/admin/metaboxes/header.php:42
+msgid "Sticky"
+msgstr ""
+
+#: rhythm/admin/options/header.php:37 rhythm/admin/metaboxes/header.php:50
+msgid "Header Style"
+msgstr ""
+
+#: rhythm/admin/options/header.php:38 rhythm/admin/metaboxes/header.php:51
+msgid "Select the header style."
+msgstr ""
+
+#: rhythm/admin/options/header.php:40 rhythm/admin/metaboxes/header.php:53
+msgid "Light background, dark text"
+msgstr ""
+
+#: rhythm/admin/options/header.php:41 rhythm/admin/metaboxes/header.php:54
+msgid "Dark background, light text"
+msgstr ""
+
+#: rhythm/admin/options/header.php:50 rhythm/admin/metaboxes/header.php:62
+msgid "Header Background Type"
+msgstr ""
+
+#: rhythm/admin/options/header.php:51 rhythm/admin/metaboxes/header.php:63
+msgid "Select the type of background to be applied in header."
+msgstr ""
+
+#: rhythm/admin/options/header.php:53 rhythm/admin/metaboxes/header.php:65
+msgid "Solid"
+msgstr ""
+
+#: rhythm/admin/options/header.php:54 rhythm/admin/metaboxes/header.php:66
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/color/field_color.php:73
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:124
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: rhythm/admin/options/header.php:63 rhythm/admin/metaboxes/header.php:74
+msgid "Logo Module Configuration."
+msgstr ""
+
+#: rhythm/admin/options/header.php:70 rhythm/admin/metaboxes/header.php:81
+msgid "Logo"
+msgstr ""
+
+#: rhythm/admin/options/header.php:71 rhythm/admin/metaboxes/header.php:82
+msgid "Upload the logo that will be displayed in the header."
+msgstr ""
+
+#: rhythm/admin/options/header.php:78 rhythm/admin/metaboxes/header.php:89
+msgid "Logo Retina"
+msgstr ""
+
+#: rhythm/admin/options/header.php:79
+msgid ""
+"The same logo image but with twice dimensions, e.g. your logo is 100x100, "
+"then your retina logo must be 200x200. Logo must include @2x in the file "
+"name, eg. if your logo file name is <strong>logo.png</strong>, retina "
+"version must be <strong>logo@2x.png</strong> and must be placed in the same "
+"directory! This featrue requires the plugin <strong>WP Retina 2x</strong> to "
+"be activated."
+msgstr ""
+
+#: rhythm/admin/options/header.php:80 rhythm/admin/options/header.php:97
+#: rhythm/admin/metaboxes/header.php:91 rhythm/admin/metaboxes/header.php:109
+msgid ""
+"Optional retina version displayed in devices with retina display (high "
+"resolution display)."
+msgstr ""
+
+#: rhythm/admin/options/header.php:87 rhythm/admin/metaboxes/header.php:99
+msgid "Logo (light)"
+msgstr ""
+
+#: rhythm/admin/options/header.php:88 rhythm/admin/metaboxes/header.php:100
+msgid "Upload a light version of logo used in dark backgrounds"
+msgstr ""
+
+#: rhythm/admin/options/header.php:95 rhythm/admin/metaboxes/header.php:107
+msgid "Logo Retina (light)"
+msgstr ""
+
+#: rhythm/admin/options/header.php:96 rhythm/admin/metaboxes/header.php:90
+#: rhythm/admin/metaboxes/header.php:108
+msgid ""
+"The same logo image but with twice dimensions, e.g. your logo is 100x100, "
+"then your retina logo must be 200x200. Logo must include @2x in the file "
+"name, eg. if your logo file name is <strong>logo.png</strong>, retina "
+"version must be <strong>logo@2x.png</strong> and must be placed in the same "
+"directory! This featrues require the plugin <strong>WP Retina 2x</strong> to "
+"be activated."
+msgstr ""
+
+#: rhythm/admin/options/header.php:103 rhythm/admin/metaboxes/header.php:115
+msgid "Modules Configuration."
+msgstr ""
+
+#: rhythm/admin/options/header.php:110 rhythm/admin/metaboxes/header.php:122
+msgid "If on, a search module will be displayed."
+msgstr ""
+
+#: rhythm/admin/options/header.php:117 rhythm/admin/metaboxes/header.php:134
+msgid "Cart"
+msgstr ""
+
+#: rhythm/admin/options/header.php:118 rhythm/admin/metaboxes/header.php:135
+msgid ""
+"If on, a cart module will be displayed. Works only when Woocommerce plugin "
+"is installed"
+msgstr ""
+
+#: rhythm/admin/options/header.php:125 rhythm/admin/metaboxes/header.php:147
+msgid "Languages"
+msgstr ""
+
+#: rhythm/admin/options/header.php:126 rhythm/admin/metaboxes/header.php:148
+msgid ""
+"If on, a cart module will be displayed. Works only when WPML plugin is "
+"installed"
+msgstr ""
+
+#: rhythm/admin/options/header.php:133 rhythm/admin/metaboxes/header.php:160
+msgid "Buttom"
+msgstr ""
+
+#: rhythm/admin/options/header.php:134 rhythm/admin/metaboxes/header.php:161
+msgid "If on, a button module will be displayed."
+msgstr ""
+
+#: rhythm/admin/options/header.php:140 rhythm/admin/metaboxes/header.php:168
+msgid "Button Text"
+msgstr ""
+
+#: rhythm/admin/options/header.php:141 rhythm/admin/metaboxes/header.php:169
+msgid "Button label to be disaplayed."
+msgstr ""
+
+#: rhythm/admin/options/header.php:149 rhythm/admin/metaboxes/header.php:178
+msgid "Button Link"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:200
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:201
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:202
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:203
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:204
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:205
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:206
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:207
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:208
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:212
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1952
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:213
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:545
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2169
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1175
+msgid "Private Repository"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1178
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1183
+msgid "WordPress Repository"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1186
+msgid "Required"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1186
+msgid "Recommended"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1189
+msgid "Not Installed"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1191
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1293
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1401
+msgid "Install"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1315
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1402
+msgid "Activate"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1364
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1380
+msgid "Plugin"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1381
+msgid "Source"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1382
+msgid "Type"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1383
+msgid "Status"
+msgstr ""
+
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1511
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1935
+msgid "Install package not available."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1936
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1937
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1938
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1939
+msgid "Plugin install failed."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1940
+msgid "Plugin installed successfully."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:1951
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2066
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2075
+msgid "Show Details"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2066
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2075
+msgid "Hide Details"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2067
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2072
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2076
+msgid "All installations have been completed."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/tgm/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: rhythm/admin/metaboxes/layout.php:19
+msgid "2 - Column Left"
+msgstr ""
+
+#: rhythm/admin/metaboxes/layout.php:20
+msgid "2 - Column Right"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-general.php:8
+msgid "General settings"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-general.php:14
+msgid "Vertical image on portfolio template page"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-general.php:15
+msgid "If on, the featured image will be vertical on portfolio template page."
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-general.php:22
+msgid "Open lightbox on portfolio template page"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-general.php:23
+msgid "If on, image will be opened in lightbox on portfolio template page."
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-general.php:43
+msgid "Related projects"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-general.php:56
+msgid "Show Related Or Latest Projects"
+msgstr ""
+
+#: rhythm/admin/metaboxes/content-portfolio.php:8
+#: rhythm/admin/metaboxes/content.php:8
+msgid "Change the content section configuration."
+msgstr ""
+
+#: rhythm/admin/metaboxes/content-portfolio.php:14
+#: rhythm/admin/metaboxes/content.php:14
+msgid "Content Margin"
+msgstr ""
+
+#: rhythm/admin/metaboxes/content-portfolio.php:15
+#: rhythm/admin/metaboxes/content.php:15
+msgid "Select desired margin for the content"
+msgstr ""
+
+#: rhythm/admin/metaboxes/content-portfolio.php:18
+#: rhythm/admin/metaboxes/content.php:18
+msgid "No margin"
+msgstr ""
+
+#: rhythm/admin/metaboxes/content-portfolio.php:19
+#: rhythm/admin/metaboxes/content.php:19
+msgid "Only top margin"
+msgstr ""
+
+#: rhythm/admin/metaboxes/content-portfolio.php:20
+#: rhythm/admin/metaboxes/content.php:20
+msgid "Only bottom margin"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-gallery.php:8
+#: rhythm/admin/metaboxes/portfolio-gallery.php:53
+msgid "Gallery"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-gallery.php:27
+msgid "Enable project gallery section"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-gallery.php:54
+#: rhythm/admin/metaboxes/post-gallery.php:14
+msgid "Upload images or add from media library."
+msgstr ""
+
+#: rhythm/admin/metaboxes/team.php:12
+msgid "Postion"
+msgstr ""
+
+#: rhythm/admin/metaboxes/team.php:13
+msgid "Position of the team member."
+msgstr ""
+
+#: rhythm/admin/metaboxes/team.php:19
+msgid "Header text of the team member."
+msgstr ""
+
+#: rhythm/admin/metaboxes/team.php:24
+msgid "Facebook"
+msgstr ""
+
+#: rhythm/admin/metaboxes/team.php:25 rhythm/admin/metaboxes/team.php:32
+#: rhythm/admin/metaboxes/team.php:39
+msgid "Social site URL."
+msgstr ""
+
+#: rhythm/admin/metaboxes/team.php:31
+msgid "Twitter"
+msgstr ""
+
+#: rhythm/admin/metaboxes/team.php:38
+msgid "Pinterest"
+msgstr ""
+
+#: rhythm/admin/metaboxes/post-gallery.php:13
+msgid "Gallery Slider"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-shop.php:26
+#: rhythm/admin/metaboxes/page-template-portfolio.php:58
+#: rhythm/admin/metaboxes/page-template-faq.php:34
+#: rhythm/admin/metaboxes/page-template-blog.php:26
+msgid "Posts per page"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-shop.php:27
+#: rhythm/admin/metaboxes/page-template-portfolio.php:59
+#: rhythm/admin/metaboxes/page-template-faq.php:35
+#: rhythm/admin/metaboxes/page-template-blog.php:27
+msgid "The number of items to show."
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-shop.php:33
+#: rhythm/admin/metaboxes/page-template-portfolio.php:65
+#: rhythm/admin/metaboxes/page-template-faq.php:41
+#: rhythm/admin/metaboxes/page-template-blog.php:33
+msgid "Enable pagination"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-shop.php:34
+#: rhythm/admin/metaboxes/page-template-portfolio.php:66
+#: rhythm/admin/metaboxes/page-template-faq.php:42
+#: rhythm/admin/metaboxes/page-template-blog.php:34
+msgid "If on pagination will be enabled."
+msgstr ""
+
+#: rhythm/admin/metaboxes/post-audio.php:13
+msgid "Audio URL"
+msgstr ""
+
+#: rhythm/admin/metaboxes/post-audio.php:14
+msgid "Audio file URL in format: mp3, ogg, wav."
+msgstr ""
+
+#: rhythm/admin/metaboxes/social_site.php:13
+msgid "Select Icon"
+msgstr ""
+
+#: rhythm/admin/metaboxes/social_site.php:14
+msgid "Select Desired Social Icon"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/metaboxes/testimonial.php:12
+#: rhythm/admin/metaboxes/person.php:12
+msgid "Author"
+msgstr ""
+
+#: rhythm/admin/metaboxes/testimonial.php:13
+#: rhythm/admin/metaboxes/person.php:13
+msgid "Name of the testimonial author."
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-details.php:8
+msgid "Project details"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/metaboxes/portfolio-details.php:26
+msgid "Client"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-details.php:27
+msgid "Your client name."
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-details.php:34
+msgid "The URL to the project."
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-details.php:41
+msgid "Content 1"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-details.php:42
+#: rhythm/admin/metaboxes/portfolio-details.php:49
+msgid "Short text displayed in the project details section."
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-details.php:48
+msgid "Content 2"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/metaboxes/page-template-portfolio.php:13
+#: rhythm/admin/metaboxes/page-template-faq.php:13
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Style"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:14
+msgid "Select desired style for portfolio template. "
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:16
+msgid "Boxed black"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:17
+msgid "Boxed white"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:18
+msgid "Boxed gutter black"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:19
+msgid "Boxed gutter white"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:20
+msgid "Boxed titles black"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:21
+msgid "Boxed titles white"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:22
+msgid "Masonry black"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:23
+msgid "Masonry white"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:24
+msgid "Wide black"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:25
+msgid "Wide white"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:26
+msgid "Wide gutter black"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:27
+msgid "Wide gutter white"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:28
+msgid "Wide titles black"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:29
+msgid "Wide titles white"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:37
+msgid "Allow vertical images"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:45
+msgid "Select desired number of columns"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:73
+msgid "Enable filter"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:74
+msgid "If on filters will be enabled."
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:81
+msgid "Use external URL if exists"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:82
+msgid "If on external URL is used instead of single post."
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:89
+msgid "Allow lightbox"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:90
+msgid ""
+"Lightbox will be used if portfolio item lightbox effect is enabled. Lightbox "
+"effect must be enabled on portfolio item edit form."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/metaboxes/page-template-portfolio.php:97
+#: rhythm/admin/metaboxes/page-template-blog.php:40
+msgid "Categories"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:98
+#: rhythm/admin/metaboxes/page-template-blog.php:41
+msgid "Select desired categories"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:107
+msgid "Excluded portfolio items"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-portfolio.php:108
+#: rhythm/admin/metaboxes/page-template-blog.php:50
+msgid "Post IDs you want to exclude, separated by commas eg. 120,123,1005"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-external-url.php:8
+msgid "External URL"
+msgstr ""
+
+#: rhythm/admin/metaboxes/portfolio-external-url.php:14
+msgid "URL used to open external page instead of portfolio single."
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-faq.php:14
+msgid "Select desired style for faq template. "
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-faq.php:16
+msgid "List"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-faq.php:17
+msgid "Accordion"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-faq.php:26
+msgid "Enable search form"
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-faq.php:27
+msgid "If on search form will be enabled."
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-faq.php:50
+msgid "Text displayed below the form."
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-blog.php:14
+msgid ""
+"Select desired number of columns. Works for blog columns and blog masonry "
+"template only."
+msgstr ""
+
+#: rhythm/admin/metaboxes/page-template-blog.php:49
+msgid "Excluded blog items"
+msgstr ""
+
+#: rhythm/admin/metaboxes/post-video.php:13
+msgid "Video URL"
+msgstr ""
+
+#: rhythm/admin/metaboxes/post-video.php:14
+msgid "YouTube or Vimeo video URL"
+msgstr ""
+
+#: rhythm/admin/metaboxes/post-video.php:20
+msgid "Embadded video"
+msgstr ""
+
+#: rhythm/admin/metaboxes/post-video.php:21
+msgid "Use this option when the video does not come from YouTube or Vimeo"
+msgstr ""
+
+#: rhythm/admin/metaboxes/title-wrapper.php:29
+msgid "This is a subtitle displayed below the title."
+msgstr ""
+
+#: rhythm/admin/metaboxes/title-wrapper.php:56
+msgid "Title Wrapper Size"
+msgstr ""
+
+#: rhythm/admin/metaboxes/title-wrapper.php:57
+msgid "Choose size for the title wrapper."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/metaboxes/title-wrapper.php:60
+msgid "Small"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/metaboxes/title-wrapper.php:61
+msgid "Medium"
+msgstr ""
+
+#: rhythm/admin/metaboxes/title-wrapper.php:62
+msgid "Big"
+msgstr ""
+
+#: rhythm/admin/metaboxes/content.php:28
+msgid "Enable Comments?"
+msgstr ""
+
+#: rhythm/admin/metaboxes/content.php:29
+msgid "If on, the comment form will be avaliable for this page."
+msgstr ""
+
+#: rhythm/admin/metaboxes/footer.php:116 rhythm/admin/metaboxes/footer.php:123
+msgid ""
+"Place any text to be displayed. Leave empty to use default one from theme "
+"options."
+msgstr ""
+
+#: rhythm/admin/metaboxes/header.php:29
+msgid "Select a menu to overwrite the header menu location."
+msgstr ""
+
+#: rhythm/admin/redux-extensions/extensions/metaboxes/extension_metaboxes.php:987
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3112
+msgid "Settings Imported!"
+msgstr ""
+
+#: rhythm/admin/redux-extensions/extensions/metaboxes/extension_metaboxes.php:990
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3175
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: rhythm/admin/redux-extensions/extensions/metaboxes/extension_metaboxes.php:994
+#: rhythm/admin/redux-extensions/extensions/metaboxes/extension_metaboxes.php:1275
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3183
+msgid "error(s) were found!"
+msgstr ""
+
+#: rhythm/admin/redux-extensions/extensions/metaboxes/extension_metaboxes.php:997
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3191
+msgid "warning(s) were found!"
+msgstr ""
+
+#: rhythm/admin/redux-extensions/extensions/metaboxes/extension_metaboxes.php:1001
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3079
+msgid "Expand"
+msgstr ""
+
+#: rhythm/admin/redux-extensions/extensions/metaboxes/extension_metaboxes.php:1280
+msgid "warnings(s) were found!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/class-redux-plugin.php:243
+#: rhythm/admin/redux-framework/class.redux-plugin.php:306
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: rhythm/admin/redux-framework/class-redux-plugin.php:243
+#: rhythm/admin/redux-framework/class.redux-plugin.php:306
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: rhythm/admin/redux-framework/class-redux-plugin.php:350
+#: rhythm/admin/redux-framework/class.redux-plugin.php:415
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: rhythm/admin/redux-framework/class-redux-plugin.php:352
+#: rhythm/admin/redux-framework/class.redux-plugin.php:417
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: rhythm/admin/redux-framework/class.redux-plugin.php:407
+msgid "Repo"
+msgstr ""
+
+#: rhythm/admin/redux-framework/class.redux-plugin.php:408
+msgid "Generator"
+msgstr ""
+
+#: rhythm/admin/redux-framework/class.redux-plugin.php:409
+msgid "Issues"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:55
+#: rhythm/admin/redux-framework/sample/sample-config.php:239
+msgid "Home Settings"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:56
+#: rhythm/admin/redux-framework/sample/sample-config.php:1564
+msgid ""
+"These fields can be fully translated by WPML (WordPress Multi-Language). "
+"This serves as an example for you to implement. For extra details look at "
+"our <a href=\"http://docs.reduxframework.com/core/advanced/wpml-integration/"
+"\" target=\"_blank\">WPML Implementation</a> documentation."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:64
+msgid "Example Text"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:67
+msgid "Example description."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:68
+msgid "Example subtitle."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:78
+#: rhythm/admin/redux-framework/sample/sample-config.php:1563
+msgid "WPML Example"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:79
+msgid ""
+"These fields can be fully translated by WPML (WordPress Multi-Language). "
+"This serves as an example for you to implement."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:86
+#: rhythm/admin/redux-framework/sample/sample-config.php:1571
+msgid "WPML Text"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:87
+#: rhythm/admin/redux-framework/sample/sample-config.php:1572
+msgid "This string can be translated via WPML."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:92
+#: rhythm/admin/redux-framework/sample/sample-config.php:1577
+msgid "WPML Multi Checkbox"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:93
+#: rhythm/admin/redux-framework/sample/sample-config.php:1578
+msgid "You can literally translate the values via key."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:144
+#: rhythm/admin/redux-framework/sample/barebones-config.php:145
+#: rhythm/admin/redux-framework/sample/sample-config.php:1669
+#: rhythm/admin/redux-framework/sample/sample-config.php:1670
+msgid "Sample Options"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:262
+#: rhythm/admin/redux-framework/sample/sample-config.php:1815
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:264
+#: rhythm/admin/redux-framework/sample/sample-config.php:1817
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/barebones-config.php:268
+#: rhythm/admin/redux-framework/sample/sample-config.php:1821
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:240
+msgid ""
+"Redux Framework was created with the developer in mind. It allows for any "
+"theme developer to have an advanced theme panel with most of the features a "
+"developer would need. For more information check out the Github repo at: <a "
+"href=\"https://github.com/ReduxFramework/Redux-Framework\">https://github."
+"com/ReduxFramework/Redux-Framework</a>"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:248
+msgid "Web Fonts"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:252
+#: rhythm/admin/redux-framework/sample/sample-config.php:281
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:262
+msgid "Section Show"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:263
+#: rhythm/admin/redux-framework/sample/sample-config.php:270
+msgid "With the \"section\" field you can create indent option sections."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:269
+msgid "Media Options"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:278
+msgid "Media w/ URL"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:298
+msgid "Media w/o URL"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:299
+#: rhythm/admin/redux-framework/sample/sample-config.php:307
+msgid ""
+"This represents the minimalistic view. It does not have the preview box or "
+"the display URL in an input box. "
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:306
+msgid "Media No Preview"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:313
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:314
+msgid ""
+"Create a new Gallery by selecting existing or uploading new images using the "
+"WordPress native uploader"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:315
+#: rhythm/admin/redux-framework/sample/sample-config.php:705
+#: rhythm/admin/redux-framework/sample/sample-config.php:716
+#: rhythm/admin/redux-framework/sample/sample-config.php:734
+#: rhythm/admin/redux-framework/sample/sample-config.php:832
+#: rhythm/admin/redux-framework/sample/sample-config.php:846
+#: rhythm/admin/redux-framework/sample/sample-config.php:855
+#: rhythm/admin/redux-framework/sample/sample-config.php:862
+#: rhythm/admin/redux-framework/sample/sample-config.php:875
+#: rhythm/admin/redux-framework/sample/sample-config.php:884
+#: rhythm/admin/redux-framework/sample/sample-config.php:893
+#: rhythm/admin/redux-framework/sample/sample-config.php:915
+#: rhythm/admin/redux-framework/sample/sample-config.php:928
+#: rhythm/admin/redux-framework/sample/sample-config.php:937
+#: rhythm/admin/redux-framework/sample/sample-config.php:952
+#: rhythm/admin/redux-framework/sample/sample-config.php:961
+#: rhythm/admin/redux-framework/sample/sample-config.php:970
+#: rhythm/admin/redux-framework/sample/sample-config.php:980
+#: rhythm/admin/redux-framework/sample/sample-config.php:996
+#: rhythm/admin/redux-framework/sample/sample-config.php:1004
+#: rhythm/admin/redux-framework/sample/sample-config.php:1023
+#: rhythm/admin/redux-framework/sample/sample-config.php:1031
+#: rhythm/admin/redux-framework/sample/sample-config.php:1039
+#: rhythm/admin/redux-framework/sample/sample-config.php:1053
+#: rhythm/admin/redux-framework/sample/sample-config.php:1061
+#: rhythm/admin/redux-framework/sample/sample-config.php:1111
+#: rhythm/admin/redux-framework/sample/sample-config.php:1124
+#: rhythm/admin/redux-framework/sample/sample-config.php:1144
+#: rhythm/admin/redux-framework/sample/sample-config.php:1158
+#: rhythm/admin/redux-framework/sample/sample-config.php:1186
+#: rhythm/admin/redux-framework/sample/sample-config.php:1219
+#: rhythm/admin/redux-framework/sample/sample-config.php:1228
+#: rhythm/admin/redux-framework/sample/sample-config.php:1236
+#: rhythm/admin/redux-framework/sample/sample-config.php:1245
+#: rhythm/admin/redux-framework/sample/sample-config.php:1253
+#: rhythm/admin/redux-framework/sample/sample-config.php:1262
+#: rhythm/admin/redux-framework/sample/sample-config.php:1270
+#: rhythm/admin/redux-framework/sample/sample-config.php:1279
+#: rhythm/admin/redux-framework/sample/sample-config.php:1287
+#: rhythm/admin/redux-framework/sample/sample-config.php:1296
+#: rhythm/admin/redux-framework/sample/sample-config.php:1306
+#: rhythm/admin/redux-framework/sample/sample-config.php:1314
+#: rhythm/admin/redux-framework/sample/sample-config.php:1323
+#: rhythm/admin/redux-framework/sample/sample-config.php:1331
+#: rhythm/admin/redux-framework/sample/sample-config.php:1340
+#: rhythm/admin/redux-framework/sample/sample-config.php:1390
+#: rhythm/admin/redux-framework/sample/sample-config.php:1401
+#: rhythm/admin/redux-framework/sample/sample-config.php:1415
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:320
+msgid "Slider Example 1"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:321
+msgid "This slider displays the value as a label."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:322
+msgid "Slider description. Min: 1, max: 500, step: 1, default value: 250"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:332
+msgid "Slider Example 2 with Steps (5)"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:333
+msgid "This example displays the value in a text box"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:334
+msgid "Slider description. Min: 0, max: 300, step: 5, default value: 75"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:344
+msgid "Slider Example 3 with two sliders"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:345
+msgid "This example displays the values in select boxes"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:346
+msgid ""
+"Slider description. Min: 0, max: 500, step: 5, slider 1 default value: 100, "
+"slider 2 default value: 300"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:360
+msgid "Slider Example 4 with float values"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:361
+msgid "This example displays float values"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:362
+msgid "Slider description. Min: 0, max: 1, step: .1, default value: .5"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:373
+msgid "JQuery UI Spinner Example 1"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:374
+msgid ""
+"JQuery UI spinner description. Min:20, max: 100, step:20, default value: 40"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:383
+msgid "Switch On"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:384
+#: rhythm/admin/redux-framework/sample/sample-config.php:391
+msgid "Look, it's on!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:390
+msgid "Switch Off"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:398
+msgid "Switch - Nested Children, Enable to show"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:399
+msgid "Look, it's on! Also hidden child elements!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:408
+msgid "Switch - This and the next switch required for patterns to show"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:409
+#: rhythm/admin/redux-framework/sample/sample-config.php:418
+msgid "Also called a \"fold\" parent."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:410
+#: rhythm/admin/redux-framework/sample/sample-config.php:419
+msgid ""
+"Items set with a fold to this ID will hide unless this is set to the "
+"appropriate value."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:417
+msgid "Switch2 - Enable the above switch and this one for patterns to show"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:430
+msgid "Images Option (with pattern=>true)"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:431
+msgid "Select a background pattern."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:477
+msgid "Slides Options"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:478
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:479
+msgid ""
+"This field will store all slides values into a multidimensional array to use "
+"into a foreach loop."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:481
+msgid "This is a title"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:482
+msgid "Description Here"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:483
+msgid "Give us a link!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:490
+msgid "Preset"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:491
+#: rhythm/admin/redux-framework/sample/sample-config.php:493
+msgid ""
+"This allows you to set a json string or array to override multiple "
+"preferences in your theme."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:536
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:562
+msgid ""
+"Select main content and sidebar alignment. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:595
+msgid "Tracking Code"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:596
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:604
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:635
+msgid "Footer Text"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:636
+msgid ""
+"You can use the following shortcodes in your footer text: [wp-url] [site-"
+"url] [theme-url] [login-url] [logout-url] [site-title] [site-tagline] "
+"[current-year]"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:651
+msgid "Styling Options"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:657
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:658
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:666
+msgid "Body Background Color"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:667
+msgid "Pick a background color for the theme (default: #fff)."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:675
+msgid "Body Background"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:676
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:682
+msgid "Footer Background Color"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:683
+msgid "Pick a background color for the footer (default: #dd9933)."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:690
+msgid "Color RGBA"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:691
+msgid "Gives you the RGBA color."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:703
+msgid "Header Gradient Color Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:704
+#: rhythm/admin/redux-framework/sample/sample-config.php:715
+#: rhythm/admin/redux-framework/sample/sample-config.php:731
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:714
+msgid "Links Color Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:730
+msgid "Header Border Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:760
+msgid "Padding/Margin Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:761
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:762
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:775
+msgid "Dimensions (Width/Height) Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:776
+msgid "Allow your users to choose width, height, and/or unit."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:777
+msgid ""
+"You can enable or disable any piece of this field. Width, Height, or Units."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:786
+msgid "Body Font"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:787
+msgid "Specify the body font properties."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:800
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:801
+msgid "This field is even CSS validated!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:807
+msgid "Custom HTML"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:808
+msgid "Just like a text box widget."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:809
+msgid "This field is even HTML validated!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:823
+msgid "Field Validation"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:824
+msgid "Validate ALL fields within Redux."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:825
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed2</p>"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:830
+msgid "Text Option - Email Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:831
+msgid ""
+"This is a little space under the Field Title in the Options table, "
+"additional info is good in here."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:844
+msgid "Text Option with Data Attributes"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:845
+msgid ""
+"You can also pass an options array if you want. Set the default to whatever "
+"you like."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:852
+msgid "Multi Text Option - Color Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:854
+msgid ""
+"If you enter an invalid color it will be removed. Try using the text \"blue"
+"\" as a color.  ;)"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:860
+msgid "Text Option - URL Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:861
+msgid "This must be a URL."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:873
+msgid "Text Option - Numeric Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:874
+msgid "This must be numeric."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:882
+msgid "Text Option - Comma Numeric Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:883
+msgid "This must be a comma separated string of numerical values."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:891
+msgid "Text Option - No Special Chars Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:892
+msgid "This must be a alpha numeric only."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:900
+msgid "Text Option - Str Replace Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:901
+#: rhythm/admin/redux-framework/sample/sample-config.php:914
+#: rhythm/admin/redux-framework/sample/sample-config.php:927
+#: rhythm/admin/redux-framework/sample/sample-config.php:936
+msgid "You decide."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:902
+msgid "This field's default value was changed by a filter hook!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:913
+msgid "Text Option - Preg Replace Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:926
+msgid "Text Option - Custom Callback Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:935
+msgid "Text Option - Custom Callback Validated - Class"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:950
+msgid "Textarea Option - No HTML Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:951
+msgid "All HTML will be stripped"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:959
+msgid "Textarea Option - HTML Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:960
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:968
+msgid "Textarea Option - HTML Validated Custom"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:969
+msgid "Custom HTML Allowed (wp_kses)"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:978
+msgid "Textarea Option - JS Validated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:979
+msgid "JS will be escaped"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:988
+msgid "Radio/Checkbox Fields"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:989
+#: rhythm/admin/redux-framework/sample/sample-config.php:1137
+#: rhythm/admin/redux-framework/sample/sample-config.php:1383
+#: rhythm/admin/redux-framework/sample/sample-config.php:1611
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:994
+msgid "Checkbox Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:995
+#: rhythm/admin/redux-framework/sample/sample-config.php:1003
+#: rhythm/admin/redux-framework/sample/sample-config.php:1022
+#: rhythm/admin/redux-framework/sample/sample-config.php:1030
+#: rhythm/admin/redux-framework/sample/sample-config.php:1038
+#: rhythm/admin/redux-framework/sample/sample-config.php:1052
+#: rhythm/admin/redux-framework/sample/sample-config.php:1060
+#: rhythm/admin/redux-framework/sample/sample-config.php:1075
+#: rhythm/admin/redux-framework/sample/sample-config.php:1143
+#: rhythm/admin/redux-framework/sample/sample-config.php:1157
+#: rhythm/admin/redux-framework/sample/sample-config.php:1185
+#: rhythm/admin/redux-framework/sample/sample-config.php:1218
+#: rhythm/admin/redux-framework/sample/sample-config.php:1227
+#: rhythm/admin/redux-framework/sample/sample-config.php:1235
+#: rhythm/admin/redux-framework/sample/sample-config.php:1244
+#: rhythm/admin/redux-framework/sample/sample-config.php:1252
+#: rhythm/admin/redux-framework/sample/sample-config.php:1261
+#: rhythm/admin/redux-framework/sample/sample-config.php:1269
+#: rhythm/admin/redux-framework/sample/sample-config.php:1278
+#: rhythm/admin/redux-framework/sample/sample-config.php:1286
+#: rhythm/admin/redux-framework/sample/sample-config.php:1295
+#: rhythm/admin/redux-framework/sample/sample-config.php:1313
+#: rhythm/admin/redux-framework/sample/sample-config.php:1322
+#: rhythm/admin/redux-framework/sample/sample-config.php:1330
+#: rhythm/admin/redux-framework/sample/sample-config.php:1339
+#: rhythm/admin/redux-framework/sample/sample-config.php:1347
+#: rhythm/admin/redux-framework/sample/sample-config.php:1389
+#: rhythm/admin/redux-framework/sample/sample-config.php:1400
+#: rhythm/admin/redux-framework/sample/sample-config.php:1414
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1002
+msgid "Multi Checkbox Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1021
+#: rhythm/admin/redux-framework/sample/sample-config.php:1051
+msgid "Multi Checkbox Option (with menu data)"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1029
+msgid "Multi Checkbox Option (with sidebar data)"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1037
+msgid "Radio Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1059
+msgid "Images Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1074
+msgid "Images Option for Layout"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1076
+msgid ""
+"This uses some of the built in images, you can use them for layout options."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1109
+#: rhythm/admin/redux-framework/sample/sample-config.php:1122
+msgid "Sortable Text Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1110
+#: rhythm/admin/redux-framework/sample/sample-config.php:1123
+msgid "Define and reorder these however you want."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1136
+msgid "Select Fields"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/sample/sample-config.php:1142
+msgid "Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1156
+msgid "Select Option with optgroup"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1184
+msgid "Multi Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1199
+msgid "Select Image"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1200
+msgid "A preview of the selected image will appear underneath the select box."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1211
+msgid "You can easily add a variety of data from WordPress."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1217
+msgid "Categories Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1226
+msgid "Categories Multi Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1234
+msgid "Pages Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1243
+msgid "Pages Multi Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1251
+msgid "Tags Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1260
+msgid "Tags Multi Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1268
+msgid "Menus Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1277
+msgid "Menus Multi Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1285
+msgid "Post Type Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1294
+msgid "Post Type Multi Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1304
+msgid "Post Type Multi Select Option + Sortable"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1305
+msgid "This field also has sortable enabled!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1312
+msgid "Posts Select Option2"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1321
+msgid "Posts Multi Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1329
+msgid "User Role Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1338
+msgid "Capabilities Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1346
+msgid "Elusive Icons Select Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1348
+msgid "Here's a list of all the elusive icons by name and icon."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1382
+msgid "Additional Fields"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1388
+msgid "Date Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1399
+msgid "Button Set Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1413
+msgid "Button Set, Multi Select"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1428
+msgid "This is the info field, if you want to break sections up."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1434
+#: rhythm/admin/redux-framework/sample/sample-config.php:1442
+#: rhythm/admin/redux-framework/sample/sample-config.php:1450
+#: rhythm/admin/redux-framework/sample/sample-config.php:1464
+#: rhythm/admin/redux-framework/sample/sample-config.php:1472
+#: rhythm/admin/redux-framework/sample/sample-config.php:1481
+#: rhythm/admin/redux-framework/sample/sample-config.php:1490
+#: rhythm/admin/redux-framework/sample/sample-config.php:1499
+msgid "This is a title."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1435
+msgid "This is an info field with the warning style applied and a header."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1443
+msgid ""
+"This is an info field with the success style applied, a header and an icon."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1451
+msgid ""
+"This is an info field with the critical style applied, a header and an icon."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1465
+msgid ""
+"This is an info notice field with the normal style applied, a header and an "
+"icon."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1473
+msgid ""
+"This is an info notice field with the info style applied, a header and an "
+"icon."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1482
+msgid ""
+"This is an info notice field with the warning style applied, a header and an "
+"icon."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1491
+msgid ""
+"This is an info notice field with the success style applied, a header and an "
+"icon."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1500
+msgid ""
+"This is an notice field with the critical style applied, a header and an "
+"icon."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1505
+msgid "Custom Field Callback"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1506
+#: rhythm/admin/redux-framework/sample/sample-config.php:1514
+msgid "This is a completely unique field type"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1507
+#: rhythm/admin/redux-framework/sample/sample-config.php:1515
+msgid ""
+"This is created with a callback function, so anything goes in this field. "
+"Make sure to define the function though."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1513
+msgid "Custom Field Callback - Class"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1523
+#: rhythm/admin/redux-framework/sample/sample-config.php:1547
+msgid "Customizer Only Option"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1524
+#: rhythm/admin/redux-framework/sample/sample-config.php:1548
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1525
+#: rhythm/admin/redux-framework/sample/sample-config.php:1549
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1540
+msgid "Customizer Only"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1541
+msgid ""
+"<p class=\"description\">This Section should be visible only in Customizer</"
+"p>"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1590
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:140
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:149
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:150
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:143
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:152
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:153
+msgid "Import / Export"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1591
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1776
+msgid "Support"
+msgstr ""
+
+#: rhythm/admin/redux-framework/sample/sample-config.php:1782
+msgid "Extensions"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:223
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:223
+msgid "Redux Framework"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:1384
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:1385
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3255
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3334
+msgid "System Info"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:1688
+msgid "Enable"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:1693
+msgid "Disable"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:1699
+msgid "moving the mouse over"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:1701
+msgid "clicking"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:1705
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:1710
+msgid "Hints"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:2999
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3050
+msgid "Developer Mode Enabled"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3081
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3391
+msgid "Save Changes"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3085
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3395
+msgid "Reset Section"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3087
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3397
+msgid "Reset All"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3092
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3402
+msgid "Working..."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3127
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3141
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/framework.php:3155
+msgid "Settings Saved!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:152
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:139
+msgid "Getting Started"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/class.redux_filesystem.php:25
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:48
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:295
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:56
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:64
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:135
+msgid "What's New"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:143
+msgid "Changelog"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:147
+msgid "Credits"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:164
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:333
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:471
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:167
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:174
+msgid "Some Feature"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:178
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:182
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:195
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:199
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:203
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:208
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:221
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:225
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:230
+msgid "Feature"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:190
+msgid "Some feature"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:217
+msgid "More Features"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:223
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:227
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:232
+msgid "description"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:238
+msgid "Additional Updates"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:242
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:246
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:252
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:256
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:262
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:266
+msgid "Cool thing"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:244
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:248
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:254
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:258
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:264
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:268
+msgid "cool thing description."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:277
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:316
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:278
+msgid "View the Full Changelog"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:298
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:336
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:474
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:305
+msgid "Full Changelog"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:342
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:345
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:350
+#, php-format
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:352
+#, php-format
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:354
+msgid "Product Price"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:356
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:358
+msgid "Download Files"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:360
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:366
+msgid "Display a Product Grid"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:373
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:375
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:377
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:379
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:385
+msgid "Additional Display Options"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:387
+#, php-format
+msgid ""
+"The product grids can be customized in any way you wish and there is <a href="
+"\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:392
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:397
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:399
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:401
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:403
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:409
+msgid "Need Help?"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:413
+msgid "Phenomenal Support"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:415
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"easydigitaldownloads.com/support\">support forums</a>."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:417
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:419
+msgid ""
+"Our <a href=\"https://easydigitaldownloads.com/support/pricing/\">Priority "
+"Support forums</a> are there for customers that need faster and/or more in-"
+"depth assistance."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:425
+msgid "Stay Up to Date"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:429
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:431
+msgid ""
+"New extensions that make Easy Digital Downloads even more powerful are "
+"released nearly every single week. Subscribe to the newsletter to stay up to "
+"date with our latest releases. <a href=\"http://eepurl.com/kaerz\" target="
+"\"_blank\">Signup now</a> to ensure you do not miss a release!"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:433
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:435
+msgid ""
+"<a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to hear "
+"about the latest tutorial releases that explain how to take Easy Digital "
+"Downloads further."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:441
+msgid "Extensions for Everything"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:445
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:447
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:449
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:451
+msgid ""
+"<a href=\"https://asydigitaldownloads.com/extensions\" target=\"_blank\">The "
+"Extensions store</a> has a list of all available extensions, including "
+"convenient category filters so you can find exactly what you are looking for."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:480
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:500
+msgid "No valid changlog was found."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/welcome.php:539
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/debug.php:41
+#: rhythm/admin/redux-framework/ReduxCore/inc/debug.php:69
+#: rhythm/admin/redux-framework/ReduxCore/inc/debug.php:76
+#: rhythm/admin/redux-framework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/class.redux_functions.php:231
+msgid "Dismiss"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:78
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:81
+msgid "Import / Export Options"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:81
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:84
+msgid "Import Options"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:82
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:85
+msgid "Import from file"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:82
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:85
+msgid "Import from URL"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:85
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:88
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:90
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:93
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:94
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:97
+msgid "Import"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:94
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:97
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:97
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:100
+msgid "Export Options"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:100
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:103
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:104
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:107
+msgid "Copy"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:104
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:107
+msgid "Download"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/import_export.php:104
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/import_export/import_export.php:107
+msgid "Copy Link"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/color/validation_color.php:15
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/email/validation_email.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/group/field_group.php:79
+msgid "New "
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/group/field_group.php:122
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/group/field_group.php:126
+msgid "Add"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:125
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:138
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:145
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:152
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:159
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:149
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:277
+msgid "No media selected"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:198
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:314
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:227
+msgid "Font Family"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:228
+msgid "Font family"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:254
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:255
+msgid "Backup Font Family"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:269
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Font style"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:270
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:316
+msgid "Font subsets"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:318
+msgid "Font Subsets"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Subsets"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Font script"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:336
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:337
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Text Align"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:359
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:360
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:361
+msgid "Text Transform"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:382
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:383
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:384
+msgid "Font Variant"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:402
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:403
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:404
+msgid "Text Decoration"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:426
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Font Size"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Size"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:435
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Line Height"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:436
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+msgid "Height"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:444
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:445
+msgid "Word Spacing"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:453
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:454
+msgid "Letter Spacing"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:472
+msgid "Font Color"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:474
+msgid "Font color"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:871
+msgid "Standard Fonts"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:972
+msgid "Google Webfonts"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/select/field_select.php:83
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/select/field_select.php:134
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/password/field_password.php:62
+#: rhythm/woocommerce/myaccount/form-login.php:131
+msgid "Password"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:73
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+# @ mk_framework
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/core/enqueue.php:346
+#: rhythm/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:530
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/core/enqueue.php:354
+#: rhythm/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:531
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/core/enqueue.php:362
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/core/enqueue.php:370
+#: rhythm/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:532
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/core/enqueue.php:377
+msgid "Please Wait"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/extension_edd.php:77
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/extension_edd.php:119
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/extension_edd.php:176
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:116
+msgid "Valid"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/extension_edd.php:170
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:110
+msgid "Not Activated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/extension_edd.php:173
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:114
+msgid "Deactivated"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/extension_edd.php:179
+msgid "Not Valid"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/edd_license/EDD_License_Handler.php:112
+#, php-format
+msgid "%1$s License Key"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/edd_license/EDD_License_Handler.php:218
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:142
+msgid "Deactivate License"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/edd_license/EDD_SL_Theme_Updater.php:54
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:123
+msgid "License Status"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:132
+msgid "Verify License"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:137
+msgid "Activate License"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:565
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:566
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: rhythm/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:567
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product-reviews.php:38
+msgid "Add a review"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product-reviews.php:38
+msgid "Be the first to review"
+msgstr ""
+
+#: rhythm/woocommerce/single-product-reviews.php:39
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: rhythm/woocommerce/single-product-reviews.php:57
+msgid "Send Review"
+msgstr ""
+
+#: rhythm/woocommerce/single-product-reviews.php:68
+msgid "Your Rating"
+msgstr ""
+
+#: rhythm/woocommerce/single-product-reviews.php:93
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product/sale-flash.php:19
+#: rhythm/woocommerce/loop/sale-flash.php:17
+msgid "Sale!"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr ""
+
+#: rhythm/woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product/meta.php:30
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product/meta.php:32
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product/up-sells.php:48
+msgid "You may also like&hellip;"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: rhythm/woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: rhythm/woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: rhythm/woocommerce/single-product/rating.php:33
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product/review.php:29
+msgid "verified owner"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product/review.php:54
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: rhythm/woocommerce/single-product/product-attributes.php:27
+msgid "Parameter"
+msgstr ""
+
+#: rhythm/woocommerce/single-product/product-attributes.php:30
+msgid "Value"
+msgstr ""
+
+#: rhythm/woocommerce/single-product/product-attributes.php:38
+msgid "Weight"
+msgstr ""
+
+#: rhythm/woocommerce/single-product/product-attributes.php:45
+msgid "Dimensions"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/single-product/related.php:47
+msgid "Related Products"
+msgstr ""
+
+#: rhythm/woocommerce/single-product/product-image.php:43
+msgid "Placeholder"
+msgstr ""
+
+#: rhythm/woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: rhythm/woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: rhythm/woocommerce/single-product/add-to-cart/variable.php:93
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: rhythm/woocommerce/myaccount/form-login.php:23
+#: rhythm/woocommerce/myaccount/form-login.php:81
+msgid "Login"
+msgstr ""
+
+#: rhythm/woocommerce/myaccount/form-login.php:27
+msgid "Registration"
+msgstr ""
+
+#: rhythm/woocommerce/myaccount/form-login.php:70
+msgid "Lost your password?"
+msgstr ""
+
+#: rhythm/woocommerce/myaccount/form-login.php:85
+msgid "Remember me"
+msgstr ""
+
+#: rhythm/woocommerce/myaccount/form-login.php:137
+msgid "Anti-spam"
+msgstr ""
+
+#: rhythm/woocommerce/myaccount/form-login.php:147
+msgid "Register"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: rhythm/woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+# @ mk_framework
+# @ woocommerce
+#: rhythm/woocommerce/cart/cart.php:30
+#: rhythm/woocommerce/cart/cart-totals.php:78
+msgid "Total"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/cart/cart.php:47
+#: rhythm/woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/cart/cart.php:119
+msgid "Coupon"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/cart/cart.php:119
+msgid "Coupon code"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/cart/cart.php:119
+msgid "Apply Coupon"
+msgstr ""
+
+#: rhythm/woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: rhythm/woocommerce/cart/cross-sells.php:47
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: rhythm/woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/cart/cart-totals.php:24
+#: rhythm/woocommerce/cart/mini-cart.php:64
+msgid "Subtotal"
+msgstr ""
+
+#: rhythm/woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: rhythm/woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: rhythm/woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: rhythm/woocommerce/cart/mini-cart.php:56
+msgid "No products in the cart."
+msgstr ""
+
+#: rhythm/woocommerce/cart/mini-cart.php:69
+msgid "View Cart"
+msgstr ""
+
+#: rhythm/woocommerce/cart/mini-cart.php:70
+msgid "Checkout"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: rhythm/woocommerce/loop/result-count.php:32
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+# @ woocommerce
+#: rhythm/woocommerce/global/quantity-input.php:13
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: rhythm/extensions/insert-icon.php:20
+msgid "Insert Icon"
+msgstr ""
+
+#: rhythm/extensions/insert-icon.php:73
+msgid "Insert"
+msgstr ""
